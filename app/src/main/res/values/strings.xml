@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Globe</string>
+
+    <string name="start_draw">开始绘制</string>
+    <string name="end_draw">关闭绘制</string>
+    <string name="clean_draw">清除</string>
+    <string name="agree">确认</string>
+    <string name="start_tail_after">开始定位跟踪</string>
+    <string name="end_tail_after">结束定位跟踪</string>
+
+</resources>
